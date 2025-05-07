@@ -7,3 +7,5 @@ https://pricopdani205.atlassian.net/jira/software/projects/ASIPSI/boards/2?jql=&
 Laborator 6:
 
 https://pricopdani205.atlassian.net/jira/software/c/projects/L6A/boards/34?atlOrigin=eyJpIjoiODRkOTg2N2MzYzVhNGIwMDlmMWQ4ZDZmZmQ0M2Y1MDMiLCJwIjoiaiJ9
+
+https://pricopdani205.atlassian.net/jira/software/projects/SMS/boards/67/backlog?epics=visible&atlOrigin=eyJpIjoiMWY3OTFlYmY1YTdjNDdlOWI0OTI5MjQ4NDk4ZWFhYTYiLCJwIjoiaiJ9
